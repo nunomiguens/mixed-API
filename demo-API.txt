@@ -1,0 +1,12 @@
+
+npm init @vitejs/app .
+npm install
+
+https://tailwindcss.com/docs/installation
+npm i -D tailwindcss@latest
+npx tailwindcss init -p
+
+
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
+
+
